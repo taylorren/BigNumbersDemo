@@ -1,0 +1,9 @@
+## Composer
+composer.phar
+composer.lock
+
+## Netbeans
+nbproject/*
+
+## Vendor lib
+vendor/*
